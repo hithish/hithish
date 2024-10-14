@@ -25,6 +25,11 @@ I'm passionate about  ***Front-end*** , ***Design*** and ***Applications Develop
 	&emsp;
 <br>
 <br>
+&emsp;
+<a href='https://www.typescriptlang.org/'>
+	<img src='https://img.shields.io/badge/code-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge' alt='TypeScript'>
+</a>
+&emsp;
 <a href='https://www.react.org/'>
 		<img src='https://img.shields.io/badge/code-angular-red?logoWidth=30&labelColor=black&style=for-the-badge&logo=angular&logoColor=red' alt='Angular'>
 	</a>
