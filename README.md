@@ -36,9 +36,10 @@ I'm passionate about  ***Front-end*** , ***Design*** and ***Applications Develop
 <br>
 &emsp;
 <a href='https://www.java.com/'>
-	<img src='https://img.shields.io/badge/tool-java-007396?logoWidth=30&labelColor=black&style=for-the-badge&logo=java' alt='Java'>
+	<img src='https://img.shields.io/badge/code-java-007396?logo=java&logoColor=white&style=for-the-badge' alt='Java'>
 </a>
 &emsp;
+
   <a href='https://www.react.org/'>
 		<img src='https://img.shields.io/badge/tool-figma-purple?logoWidth=30&labelColor=black&style=for-the-badge&logo=figma&logoColor=purple' alt='Figma'>
 	</a>
