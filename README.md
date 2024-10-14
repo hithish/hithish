@@ -25,7 +25,6 @@ I'm passionate about  ***Front-end*** , ***Design*** and ***Applications Develop
 	&emsp;
 <br>
 <br>
-&emsp;
 <a href='https://www.typescriptlang.org/'>
 	<img src='https://img.shields.io/badge/code-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge' alt='TypeScript'>
 </a>
